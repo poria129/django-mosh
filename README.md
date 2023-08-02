@@ -1,2 +1,2 @@
 # django-mosh
- This is the ecommerce site wich made in mosh django course
+ This is the ecommerce site witch made in mosh django course
